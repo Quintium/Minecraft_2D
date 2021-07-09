@@ -1,0 +1,203 @@
+dirt:
+  hardness=0.5
+  droppable=true
+  tool=shovel
+
+
+grass_block:
+  hardness=0.6
+  drop1=dirt
+  droppable=true
+  tool=shovel
+
+
+sand:
+  hardness=0.5
+  droppable=true
+  tool=shovel
+  gravity=true
+
+
+stone:
+  hardness=1.5
+  drop1=cobblestone
+  droppable=wood
+  tool=pickaxe
+
+
+cobblestone:
+  hardness=2
+  droppable=wood
+  tool=pickaxe
+
+
+smooth_stone:
+  hardness=2
+  droppable=wood
+  tool=pickaxe
+
+
+sandstone:
+  hardness=0.8
+  droppable=wood
+  tool=pickaxe
+
+
+bedrock:
+  hardness=-1
+  drop1=none
+  droppable=false
+  tool=none
+
+
+oak_log:
+  hardness=2
+  droppable=true
+  tool=axe
+
+
+oak_leaves:
+  hardness=0.2
+  droppable=true
+  drop1=stick
+  chance1=0.02
+  range1=1-2
+  drop2=apple
+  chance2=0.005
+  tool=hoe
+  transparent=true
+
+
+birch_log:
+  hardness=2
+  droppable=true
+  drop1=this
+  tool=axe
+
+
+birch_leaves:
+  hardness=0.2
+  droppable=true
+  drop1=none
+  tool=hoe
+  transparent=true
+
+
+coal_ore:
+  hardness=3
+  drop1=coal
+  droppable=wood
+  tool=pickaxe
+
+
+iron_ore:
+  hardness=3
+  droppable=stone
+  tool=pickaxe
+
+
+gold_ore:
+  hardness=3
+  droppable=iron
+  tool=pickaxe
+
+
+diamond_ore:
+  hardness=3
+  drop1=diamond
+  droppable=iron
+  tool=pickaxe
+
+
+granite:
+  hardness=1.5
+  droppable=wood
+  tool=pickaxe
+
+
+diorite:
+  hardness=1.5
+  droppable=wood
+  tool=pickaxe
+
+
+grass:
+  hardness=0.05
+  droppable=false
+  tool=none
+  solid=false
+
+
+oak_planks:
+  hardness=2
+  droppable=true
+  tool=axe
+
+
+birch_planks:
+  hardness=2
+  droppable=true
+  tool=axe
+
+
+gravel:
+  hardness=0.6
+  drop1=this
+  drop2=flint
+  chance1=0.9
+  chance2=0.1
+  droppable=true
+  tool=shovel
+  gravity=true
+
+
+crafting_table:
+  hardness=2.5
+  droppable=true
+  tool=axe
+
+
+furnace:
+  hardness=3.5
+  droppable=wood
+  tool=pickaxe
+
+
+chest:
+  hardness=2.5
+  droppable=true
+  tool=axe
+
+
+glass:
+  hardness=0.3
+  droppable=false
+  tool=none
+  transparent=true
+
+
+cactus:
+  hardness=0.4
+  droppable=true
+  tool=none
+  transparent=true
+
+
+dead_bush:
+  hardness=0
+  drop1=stick
+  range1=0-2
+  droppable=true
+  tool=none
+  solid=false
+  transparent=true
+
+
+torch:
+  hardness=0
+  drop1=torch
+  droppable=true
+  tool=none
+  light=14
+  solid=false
+  transparent=true

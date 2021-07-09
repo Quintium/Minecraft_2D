@@ -1,0 +1,155 @@
+wooden_sword:
+  type=tool
+  tool=sword
+  material=wood
+
+wooden_pickaxe:
+  type=tool
+  tool=pickaxe
+  material=wood
+
+wooden_axe:
+  type=tool
+  tool=axe
+  material=wood
+
+wooden_hoe:
+  type=tool
+  tool=hoe
+  material=wood
+
+wooden_shovel:
+  type=tool
+  tool=shovel
+  material=wood
+
+
+stone_sword:
+  type=tool
+  tool=sword
+  material=stone
+
+stone_pickaxe:
+  type=tool
+  tool=pickaxe
+  material=stone
+
+stone_axe:
+  type=tool
+  tool=axe
+  material=stone
+
+stone_hoe:
+  type=tool
+  tool=hoe
+  material=stone
+
+stone_shovel:
+  type=tool
+  tool=shovel
+  material=stone
+
+
+iron_sword:
+  type=tool
+  tool=sword
+  material=iron
+
+iron_pickaxe:
+  type=tool
+  tool=pickaxe
+  material=iron
+
+iron_axe:
+  type=tool
+  tool=axe
+  material=iron
+
+iron_hoe:
+  type=tool
+  tool=hoe
+  material=iron
+
+iron_shovel:
+  type=tool
+  tool=shovel
+  material=iron
+
+
+golden_sword:
+  type=tool
+  tool=sword
+  material=gold
+
+golden_pickaxe:
+  type=tool
+  tool=pickaxe
+  material=gold
+
+golden_axe:
+  type=tool
+  tool=axe
+  material=gold
+
+golden_hoe:
+  type=tool
+  tool=hoe
+  material=gold
+
+golden_shovel:
+  type=tool
+  tool=shovel
+  material=gold
+
+
+diamond_sword:
+  type=tool
+  tool=sword
+  material=diamond
+
+diamond_pickaxe:
+  type=tool
+  tool=pickaxe
+  material=diamond
+
+diamond_axe:
+  type=tool
+  tool=axe
+  material=diamond
+
+diamond_hoe:
+  type=tool
+  tool=hoe
+  material=diamond
+
+diamond_shovel:
+  type=tool
+  tool=shovel
+  material=diamond
+
+
+coal:
+  type=crafting
+
+iron_ingot:
+  type=crafting
+
+gold_ingot:
+  type=crafting
+
+diamond:
+  type=crafting
+
+
+stick:
+  type=crafting
+
+flint:
+  type=crafting
+
+charcoal:
+  type=crafting
+
+
+apple:
+  type=food

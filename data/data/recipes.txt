@@ -1,0 +1,374 @@
+1x1
+
+oak_log
+
+4 oak_planks
+
+
+1x1
+
+birch_log
+
+4 birch_planks
+
+
+1x2
+
+planks
+planks
+
+4 stick
+
+
+2x2
+
+planks planks
+planks planks
+
+1 crafting_table
+
+
+
+3x3
+
+planks planks planks
+none stick none
+none stick none
+
+1 wooden_pickaxe
+
+
+3x3
+
+cobblestone cobblestone cobblestone
+none stick none
+none stick none
+
+1 stone_pickaxe
+
+
+3x3
+
+gold_ingot gold_ingot gold_ingot
+none stick none
+none stick none
+
+1 golden_pickaxe
+
+
+3x3
+
+iron_ingot iron_ingot iron_ingot
+none stick none
+none stick none
+
+1 iron_pickaxe
+
+
+3x3
+
+diamond diamond diamond
+none stick none
+none stick none
+
+1 diamond_pickaxe
+
+
+
+3x3
+
+none planks planks
+none stick planks
+none stick none
+
+1 wooden_axe
+
+
+3x3
+
+planks planks none
+planks stick none
+none stick none
+
+1 wooden_axe
+
+
+3x3
+
+none cobblestone cobblestone
+none stick cobblestone
+none stick none
+
+1 stone_axe
+
+
+3x3
+
+cobblestone cobblestone none
+cobblestone stick none
+none stick none
+
+1 stone_axe
+
+
+3x3
+
+none gold_ingot gold_ingot
+none stick gold_ingot
+none stick none
+
+1 golden_axe
+
+
+3x3
+
+gold_ingot gold_ingot none
+gold_ingot stick none
+none stick none
+
+1 golden_axe
+
+
+3x3
+
+none iron_ingot iron_ingot
+none stick iron_ingot
+none stick none
+
+1 iron_axe
+
+
+3x3
+
+iron_ingot iron_ingot none
+iron_ingot stick none
+none stick none
+
+1 iron_axe
+
+
+3x3
+
+none diamond diamond
+none stick diamond
+none stick none
+
+1 diamond_axe
+
+
+3x3
+
+diamond diamond none
+diamond stick none
+none stick none
+
+1 diamond_axe
+
+
+
+3x3
+
+none planks planks
+none stick none
+none stick none
+
+1 wooden_hoe
+
+
+3x3
+
+planks planks none
+none stick none
+none stick none
+
+1 wooden_hoe
+
+
+3x3
+
+none cobblestone cobblestone
+none stick none
+none stick none
+
+1 stone_hoe
+
+
+3x3
+
+cobblestone cobblestone none
+none stick none
+none stick none
+
+1 stone_hoe
+
+
+3x3
+
+none gold_ingot gold_ingot
+none stick none
+none stick none
+
+1 golden_hoe
+
+
+3x3
+
+gold_ingot gold_ingot none
+none stick none
+none stick none
+
+1 golden_hoe
+
+
+3x3
+
+none iron_ingot iron_ingot
+none stick none
+none stick none
+
+1 iron_hoe
+
+
+3x3
+
+iron_ingot iron_ingot none
+none stick none
+none stick none
+
+1 iron_hoe
+
+
+3x3
+
+none diamond diamond
+none stick none
+none stick none
+
+1 diamond_hoe
+
+
+3x3
+
+diamond diamond none
+none stick none
+none stick none
+
+1 diamond_hoe
+
+
+
+3x3
+
+none planks none
+none stick none
+none stick none
+
+1 wooden_shovel
+
+
+3x3
+
+none cobblestone none
+none stick none
+none stick none
+
+1 stone_shovel
+
+
+3x3
+
+none gold_ingot none
+none stick none
+none stick none
+
+1 golden_shovel
+
+
+3x3
+
+none iron_ingot none
+none stick none
+none stick none
+
+1 iron_shovel
+
+
+3x3
+
+none diamond none
+none stick none
+none stick none
+
+1 diamond_shovel
+
+
+
+3x3
+
+none planks none
+none planks none
+none stick none
+
+1 wooden_sword
+
+
+3x3
+
+none cobblestone none
+none cobblestone none
+none stick none
+
+1 stone_sword
+
+
+3x3
+
+none gold_ingot none
+none gold_ingot none
+none stick none
+
+1 golden_sword
+
+
+3x3
+
+none iron_ingot none
+none iron_ingot none
+none stick none
+
+1 iron_sword
+
+
+3x3
+
+none diamond none
+none diamond none
+none stick none
+
+1 diamond_sword
+
+
+3x3
+
+cobblestone cobblestone cobblestone
+cobblestone none cobblestone
+cobblestone cobblestone cobblestone
+
+1 furnace
+
+
+3x3
+
+planks planks planks
+planks none planks
+planks planks planks
+
+1 chest
+
+
+1x2
+
+coals
+stick
+
+4 torch

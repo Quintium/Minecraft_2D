@@ -1,0 +1,23 @@
+zombie:
+  health=20
+  damage=3
+  size=0.45x1.8
+  drop1=apple
+  chance1=1
+  range1=50-50
+
+pig:
+  health=10
+  damage=8
+  size=0.9x0.9
+  drop1=apple
+  chance1=1
+  range1=50-50
+
+killer_pig:
+  health=10
+  damage=8
+  size=0.9x0.9
+  drop1=apple
+  chance1=1
+  range1=50-50

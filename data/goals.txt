@@ -1,0 +1,85 @@
+﻿comment code ✅
+
+improve interaction ✅
+
+desert: cacti ✅
+        dead bushes ✅
+
+birches ✅
+
+furnace/chest ✅
+
+stacks ✅
+
+durability ✅
+
+fix item replacements ✅
+
+player animation ✅
+
+day / night ✅
+
+light ✅
+
+health ✅
+
+mobs: animals
+      enemies
+
+better caves ✅
+
+fix bugs: items out of chunk ✅
+          items fly up when there's many ✅
+          items get replaced into blocks ✅
+
+doors
+
+fix floating structures    
+
+version 1.0 complete
+
+
+creative mode
+
+saving loading worlds
+
+version 1.1 complete
+
+
+villages
+
+dungeons
+
+version 1.2 complete
+
+
+sound effects
+
+weather
+
+fire
+
+version 1.3 complete
+
+
+water/lava flow
+
+oceans and rivers
+
+more biomes
+
+farming
+
+version 1.4 complete
+
+
+nether 
+
+version 1.5 complete
+
+
+enchantments
+
+end
+
+version 1.6

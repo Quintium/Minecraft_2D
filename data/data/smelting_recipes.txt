@@ -1,0 +1,8 @@
+iron_ore -> iron_ingot
+gold_ore -> gold_ingot
+
+log -> charcoal
+
+cobblestone -> stone
+stone -> smooth_stone
+sand -> glass
